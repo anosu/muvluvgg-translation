@@ -23,7 +23,7 @@ Object.entries(routers).forEach(([path, router]) => {
 })
 
 app.all('/', (req, res) => {
-    res.send('Translations for STELLAR IDOL PROJECT')
+    res.send('Translations for Muvluv Girls Garden')
     // res.redirect(REPO_URL)
 })
 
