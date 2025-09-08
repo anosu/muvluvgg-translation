@@ -129,7 +129,10 @@
         "おばあさん": "阿姨",
         "ユーロ・タワーの女子学生": "欧罗塔的女学生",
         "ＬＯＣの女子生徒": "LOC的女学生",
-        "とある店員の声": "某个店员的声音"
+        "とある店員の声": "某个店员的声音",
+        "める＆白奈＆ラミ＆ちゆる": "爱琉＆白奈＆拉米＆千佑瑠",
+        "七彩＆める": "七彩＆爱琉",
+        "アマネの声": "天音的声音"
     },
     "teamNames": {
         "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
@@ -150,6 +153,8 @@
         "<color=#f48981>インスカーレット</material></color>": "<color=#f48981>Inscarlet</material></color>",
         "トレブルクインテット": "Treble Quintet",
         "<color=#ffbcd6>生徒会</material></color>": "<color=#ffbcd6>学生会</material></color>",
-        "--": "--"
+        "--": "--",
+        "<color=#89f4f3>風紀委員会</material></color>": "<color=#89f4f3>风纪委员会</material></color>",
+        "<color=#b6e5cc>トレブルクインテット</material></color>": "<color=#b6e5cc>Treble Quintet</material></color>"
     }
 }
