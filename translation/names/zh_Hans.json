@@ -132,7 +132,8 @@
         "とある店員の声": "某个店员的声音",
         "める＆白奈＆ラミ＆ちゆる": "爱琉＆白奈＆拉米＆千佑瑠",
         "七彩＆める": "七彩＆爱琉",
-        "アマネの声": "天音的声音"
+        "アマネの声": "天音的声音",
+        "める＆七彩＆白奈＆ちゆる": "爱琉＆七彩＆白奈＆千佑瑠"
     },
     "teamNames": {
         "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
@@ -155,6 +156,7 @@
         "<color=#ffbcd6>生徒会</material></color>": "<color=#ffbcd6>学生会</material></color>",
         "--": "--",
         "<color=#89f4f3>風紀委員会</material></color>": "<color=#89f4f3>风纪委员会</material></color>",
-        "<color=#b6e5cc>トレブルクインテット</material></color>": "<color=#b6e5cc>Treble Quintet</material></color>"
+        "<color=#b6e5cc>トレブルクインテット</material></color>": "<color=#b6e5cc>Treble Quintet</material></color>",
+        "<color=#b6e5cc>トレブルクインテット</material></color>\t\t\t": "<color=#b6e5cc>Treble Quintet</material></color>\t\t\t"
     }
 }
