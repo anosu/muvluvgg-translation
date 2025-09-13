@@ -27,16 +27,7 @@ app.all('/', (req, res) => {
     // res.redirect(REPO_URL)
 })
 
-app.get(`/translation/scenes/*`, (req, res) => {
-    const filePath = path.join(__dirname, 'translation', 'scenes', req.params[0])
-    res.sendFile(filePath, err => {
-        if (!err) return
-        const filePath = path.join(__dirname, 'translation', 'old_scenes', req.params[0])
-        res.sendFile(filePath, err => err && res.sendStatus(404))
-    })
-})
-
-Array.from(['names', 'titles']).forEach(cls => {
+Array.from(['names', 'titles', 'scenes']).forEach(cls => {
     app.get(`/translation/${cls}/*`, (req, res) => {
         const filePath = path.join(__dirname, 'translation', `${cls}/${req.params[0]}`)
         res.sendFile(filePath, err => err && res.sendStatus(404))
