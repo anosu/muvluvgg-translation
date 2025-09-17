@@ -22,10 +22,7 @@ Object.entries(routers).forEach(([path, router]) => {
     app.use(`/${path}`, router)
 })
 
-app.all('/', (req, res) => {
-    res.send('Translations for Muvluv Girls Garden')
-    // res.redirect(REPO_URL)
-})
+app.all('/', (req, res) => res.redirect(REPO_URL))
 
 Array.from(['names', 'titles', 'scenes']).forEach(cls => {
     app.get(`/translation/${cls}/*`, (req, res) => {
