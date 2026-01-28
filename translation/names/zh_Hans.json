@@ -1,5 +1,21 @@
 {
     "speakerNames": {
+                "先頭に立つ女子生徒": "站在最前面的女学生",
+        "ユーロ・タワーの生徒２": "欧罗塔的学生２",
+        "ユーロ・タワーの生徒１": "欧罗塔的学生１",
+        "目つきの鋭い教師": "目光锐利的教师",
+        "ミリアム＆ハリエット＆ケイト": "米莉亚姆＆哈莉特＆凯特",
+        "昔のミリアム": "曾经的米莉亚姆",
+        "昔のリュシー": "曾经的露西",
+        "昔のケイト": "曾经的凯特",
+        "ダミ声の教師": "声音沙哑的教师",
+        "ユーロ・タワーの生徒３": "欧罗塔的学生３",
+        "昔のドロテア": "曾经的多萝西娅",
+        "昔のハリエット": "曾经的哈莉特",
+        "放送の声": "广播的声音",
+        "クラウディア": "克劳迪娅",
+        "司会者": "主持人",
+        "ユーロ・タワーの生徒４": "欧罗塔的学生４",
         "ジュリー＆ノエル＆ラウラ": "朱莉＆诺艾尔＆劳拉",
         "威厳のある女性": "威严的女性",
         "めるの母の声": "梅露母亲的声音",
@@ -300,6 +316,9 @@
         "<color=#89f4f3>風紀委員会</material></color>": "<color=#89f4f3>风纪委员会</material></color>",
         "<color=#b6e5cc>トレブルクインテット</material></color>": "<color=#b6e5cc>Treble Quintet</material></color>",
         "<color=#b6e5cc>トレブルクインテット</material></color>\t\t\t": "<color=#b6e5cc>Treble Quintet</material></color>\t\t\t",
-        "<color=#deb4ff>トリニティ・ジュエル</material></color>": "<color=#deb4ff>Trinity・Jewel</material></color>"
+        "<color=#deb4ff>トリニティ・ジュエル</material></color>": "<color=#deb4ff>Trinity・Jewel</material></color>",
+        "<color=#d5efd1>ユニティエッジ</material></color>": "<color=#d5efd1>Unity Edge</material></color>",
+        "<color=#afb9ed>アークトゥルス</material></color>": "<color=#afb9ed>Arcturus</material></color>",
+        "<color=#afb9ed>ユニティエッジ</material></color>": "<color=#afb9ed>nity Edge</material></color>"
     }
 }
