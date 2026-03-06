@@ -1,6 +1,6 @@
 {
     "speakerNames": {
-                "先頭に立つ女子生徒": "站在最前面的女学生",
+        "先頭に立つ女子生徒": "站在最前面的女学生",
         "ユーロ・タワーの生徒２": "欧罗塔的学生２",
         "ユーロ・タワーの生徒１": "欧罗塔的学生１",
         "目つきの鋭い教師": "目光锐利的教师",
@@ -324,7 +324,24 @@
         "千鶴": "千鹤",
         "ミリアム＆ケイト＆ハリエット": "米莉亚姆＆凯特＆哈莉特",
         "購買のおばちゃん": "买东西的老奶奶",
-        "研究所の職員": "研究所的员工"
+        "研究所の職員": "研究所的员工",
+        "真桜": "真樱",
+        "前衛部隊パイロット": "先遣部队驾驶员",
+        "カリナ": "卡琳娜",
+        "妙齢の女性": "年轻的女性",
+        "ユニティエッジのメンバー１": "UnityEdge的成员１",
+        "七彩＆フルート": "七彩＆芙露特",
+        "オルガ": "奥尔加",
+        "少女の声": "少女的声音",
+        "風紀委員会の一般生徒達": "风纪委员会的普通学生们",
+        "ユニティエッジのメンバー２": "UnityEdge的成员２",
+        "主力部隊一同": "主力部队全员",
+        "黒髪の女性": "黑头发的女性",
+        "七彩＆ドロテア＆フルート": "七彩＆多萝西娅＆芙露特",
+        "七彩＆フルート＆ユリア": "七彩＆芙露特＆尤利娅",
+        "ユニティエッジのメンバー３": "UnityEdge的成员３",
+        "葵以外のカラフルブーケ一同": "葵以外的Colorful Bouquet全员",
+        "七彩＆フルート＆ドロテア": "七彩＆芙露特＆多萝西娅"
     },
     "teamNames": {
         "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
@@ -352,6 +369,7 @@
         "<color=#deb4ff>トリニティ・ジュエル</material></color>": "<color=#deb4ff>Trinity・Jewel</material></color>",
         "<color=#d5efd1>ユニティエッジ</material></color>": "<color=#d5efd1>Unity Edge</material></color>",
         "<color=#afb9ed>アークトゥルス</material></color>": "<color=#afb9ed>Arcturus</material></color>",
-        "<color=#afb9ed>ユニティエッジ</material></color>": "<color=#afb9ed>nity Edge</material></color>"
+        "<color=#afb9ed>ユニティエッジ</material></color>": "<color=#afb9ed>nity Edge</material></color>",
+        "<color=#c1a3a3>クラスナ</material></color>": "<color=#c1a3a3>克拉斯纳</material></color>"
     }
 }
