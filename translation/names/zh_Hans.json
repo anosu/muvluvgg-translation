@@ -358,7 +358,21 @@
         "神楽＆コトハ": "神乐＆琴叶",
         "ピコの声": "皮可的声音",
         "生徒会のメンバー１": "学生会的成员１",
-        "ピクシス・マスール一同": "Pyxis Ma Soeur全员"
+        "ピクシス・マスール一同": "Pyxis Ma Soeur全员",
+        "コトハ＆クラスナ一同": "琴叶＆克拉斯纳全员",
+        "ナージャ": "娜佳",
+        "ギャルっぽい少女": "一个辣妹打扮的少女",
+        "ニーナ": "妮娜",
+        "ナージャ＆ジーナ": "娜佳＆吉娜",
+        "ストリートに住む少女": "住在街上的少女",
+        "勇ましい声": "振奋人心的声音",
+        "ひったくり犯２": "抢包贼２",
+        "ひったくり犯１": "抢包贼１",
+        "学園の元女子生徒": "学园的前女学生",
+        "タチアナ": "塔蒂亚娜",
+        "エレーナ": "埃琳娜",
+        "ジーナ": " ",
+        "クレープ屋店員の女性": "可丽饼店的女店员"
     },
     "teamNames": {
         "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
@@ -386,7 +400,7 @@
         "<color=#deb4ff>トリニティ・ジュエル</material></color>": "<color=#deb4ff>Trinity・Jewel</material></color>",
         "<color=#d5efd1>ユニティエッジ</material></color>": "<color=#d5efd1>Unity Edge</material></color>",
         "<color=#afb9ed>アークトゥルス</material></color>": "<color=#afb9ed>Arcturus</material></color>",
-        "<color=#afb9ed>ユニティエッジ</material></color>": "<color=#afb9ed>nity Edge</material></color>",
+        "<color=#afb9ed>ユニティエッジ</material></color>": "<color=#afb9ed>Unity Edge</material></color>",
         "<color=#c1a3a3>クラスナ</material></color>": "<color=#c1a3a3>克拉斯纳</material></color>"
     }
 }
