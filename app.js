@@ -24,7 +24,7 @@ Object.entries(routers).forEach(([path, router]) => {
 
 app.all('/', (req, res) => res.redirect('https://github.com/anosu/muvluvgg-translation'))
 
-Array.from(['names', 'titles', 'scenes']).forEach(cls => {
+Array.from(['names', 'titles', 'scenes', 'manifest', 'static']).forEach(cls => {
     app.get(`/translation/${cls}/*`, (req, res) => {
         const filePath = path.join(__dirname, 'translation', `${cls}/${req.params[0]}`)
         res.sendFile(filePath, err => err && res.sendStatus(404))
