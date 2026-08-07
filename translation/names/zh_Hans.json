@@ -589,7 +589,7 @@
   },
   "teamNames": {
     "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
-    "<color=#e4a8a5>カオスメイデン</material></color>": "<color=#e4a8a5>混沌少女</material></color>",
+    "<color=#e4a8a5>カオスメイデン</material></color>": "<color=#e4a8a5>Chaos Maiden</material></color>",
     "<color=#89f4f3>風紀委員</material></color>": "<color=#89f4f3>风纪委员</material></color>",
     "<color=#ff5858>生徒会</material></color>": "<color=#ff5858>学生会</material></color>",
     "<color=#d2c6ed>カラフルブーケ</material></color>": "<color=#d2c6ed>Colorful Bouquet</material></color>",
@@ -617,9 +617,9 @@
     "<color=#c1a3a3>クラスナ</material></color>": "<color=#c1a3a3>Krasna</material></color>",
     "<color=#ff5858>生徒会</color>": "<color=#ff5858>学生会</color>",
     "<color=#c1a3a3>クラスナ</color>": "<color=#c1a3a3>Krasna</color>",
-    "ルドベキア・ファミリー": "鲁德贝基亚家族",
+    "ルドベキア・ファミリー": "Rudbeckia Family",
     "<color=#b6e5cc>トレブルクインテット</color>": "<color=#b6e5cc>Treble Quintet</color>",
-    "<color=#e4a8a5>カオスメイデン</color>": "<color=#e4a8a5>混沌少女</color>",
+    "<color=#e4a8a5>カオスメイデン</color>": "<color=#e4a8a5>Chaos Maiden</color>",
     "<color=#deb4ff>トリニティ・ジュエル</color>": "<color=#deb4ff>Trinity Jewel</color>"
   }
 }
