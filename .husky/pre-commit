@@ -1,0 +1,14 @@
+if ! git diff --quiet -- translation ':(exclude)translation/manifest/**'; then
+    echo "Unstaged translation changes found. Stage them before committing." >&2
+    exit 1
+fi
+
+untracked=$(git ls-files --others --exclude-standard -- translation | grep -v '^translation/manifest/' || true)
+if [ -n "$untracked" ]; then
+    echo "Untracked translation files found. Stage them before committing:" >&2
+    printf '%s\n' "$untracked" >&2
+    exit 1
+fi
+
+npm run manifest
+git add -- translation/manifest
