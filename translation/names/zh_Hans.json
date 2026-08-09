@@ -530,6 +530,7 @@
     "める＆める": "梅露＆梅露",
     "アニスの母": "阿妮丝的母亲",
     "イザナミの声": "伊邪那美的声音",
+    "エンジニア科の女子生徒": "工程科的女学生",
     "エンジニア科の女子生徒１": "工程科的女学生1",
     "エンジニア科の女子生徒２": "工程科的女学生2",
     "エンジニア科の女子生徒３": "工程科的女学生3",
@@ -584,8 +585,15 @@
     "風紀委員１": "风纪委员1",
     "風紀委員２": "风纪委员2", 
     "クレーマー": "投诉者", 
-    "クレーマー1": "投诉者1", 
-    "クレーマー2": "投诉者2"
+    "クレーマー１": "投诉者1", 
+    "クレーマー２": "投诉者2", 
+    "アニス・うるう": "阿尼丝·润羽", 
+    "コトハ＆ナージャ＆ジーナ": "琴叶＆娜佳＆吉娜",
+    "エレーナの声": "艾蕾娜的声音",
+    "母親らしき女性": "像母亲一样的女性",
+    "父親らしき男性": "像父亲一样的男性",
+    "風紀委員生徒１": "风纪委员学生1",   
+    "風紀委員生徒２": "风纪委员学生2"     
   },
   "teamNames": {
     "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
@@ -620,6 +628,14 @@
     "ルドベキア・ファミリー": "Rudbeckia Family",
     "<color=#b6e5cc>トレブルクインテット</color>": "<color=#b6e5cc>Treble Quintet</color>",
     "<color=#e4a8a5>カオスメイデン</color>": "<color=#e4a8a5>Chaos Maiden</color>",
-    "<color=#deb4ff>トリニティ・ジュエル</color>": "<color=#deb4ff>Trinity Jewel</color>"
+    "<color=#deb4ff>トリニティ・ジュエル</color>": "<color=#deb4ff>Trinity Jewel</color>", 
+    "<color=#89f4f3>風紀委員会</color>": "<color=#89f4f3>风纪委员会</color>",
+    "<color=#d2c6ed>カラフルブーケ</color>": "<color=#d2c6ed>Colorful Bouquet</color>",
+    "<color=#d5efd1>ユニティエッジ</color>": "<color=#d5efd1>Unity Edge</color>",
+    "<color=#dddf9d>ピクシス・マスール</color>": "<color=#dddf9d>Pyxis Ma Soeur</color>",
+    "<color=#f48981>インスカーレット</color>": "<color=#f48981>Inscarlet</color>",
+    "<color=#ffbcd6>シリウスシュガー</color>": "<color=#ffbcd6>Sirius Sugar</color>",
+    "<color=#ffca96>プレ・クラス－Ａ</color>": "<color=#ffca96>Pre Class A</color>",
+    "スカラ水上スポーツ大会実行委員会": "斯卡拉水上运动大会执行委员会"
   }
 }
