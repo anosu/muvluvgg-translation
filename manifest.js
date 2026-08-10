@@ -48,7 +48,16 @@ function objHash(obj) {
 }
 
 async function fileHash(filePath) {
-    return objHash(JSON.parse(await fs.readFile(filePath, 'utf8')))
+    const json = await fs.readFile(filePath, 'utf8')
+
+    try {
+        return objHash(JSON.parse(json))
+    } catch (error) {
+        if (error instanceof SyntaxError) {
+            error.message = `Failed to parse JSON file ${filePath}: ${error.message}`
+        }
+        throw error
+    }
 }
 
 async function mapConcurrent(items, concurrency, callback) {
